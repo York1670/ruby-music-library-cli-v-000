@@ -27,7 +27,7 @@ class MusicLibraryController
     end
 
     case input
-      when 'list songs'
+      when "list songs"
         list_songs
       when "list artists"
         list_artists
